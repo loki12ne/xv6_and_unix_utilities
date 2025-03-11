@@ -200,9 +200,6 @@ UPROGS=\
 	$U/_xargs\
 
 
-
-
-
 ifeq ($(LAB),syscall)
 UPROGS += \
 	$U/_attack\
